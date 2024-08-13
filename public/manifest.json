@@ -1,0 +1,23 @@
+{
+	"name": "毛绒枢纽 - Furry 站点导航",
+	"short_name": "毛绒枢纽",
+	"description": "一个简单的Furry 导航站点。",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#e5f5ff",
+	"theme_color": "#81a1c1",
+	"icons": [
+		{
+			"src": "/favicon.webp",
+			"sizes": "1024x1024",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "/favicon.ico",
+			"sizes": "64x64",
+			"type": "image/x-icon",
+			"purpose": "any"
+		}
+	]
+}

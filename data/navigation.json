@@ -1,0 +1,19 @@
+[
+	{
+		"name": "Wiki 平台",
+		"link": [
+			{
+				"name": "Wiki Fur",
+				"description": "Furry Wiki",
+				"avatar": "/assets/images/navigation/wikifur.webp",
+				"url": "https://zh.wikifur.com"
+			},
+			{
+				"name": "Furry 百科",
+				"description": "福瑞百科是一个不可直接编辑的百科平台，旨在分享相关知识，传播Furry文化,打造面向兽圈新人的优质科普网站。",
+				"avatar": "",
+				"url": "https://www.furcn.net/"
+			}
+		]
+	}
+]
